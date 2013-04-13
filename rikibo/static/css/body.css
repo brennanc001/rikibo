@@ -1,0 +1,25 @@
+/* 
+ *
+ * Body CSS
+ *
+ *
+ */
+
+body {
+
+}
+
+#page {
+    /* page content in the middle */
+    top: 40px;
+    left: 50%;
+    width: 60em;
+    height: 60em;
+    margin-top: 0px; /*set to a negative number 1/2 of your height*/
+    margin-left: -30em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+    background-color: #f3f3f3;
+    position:absolute;
+
+}
+
